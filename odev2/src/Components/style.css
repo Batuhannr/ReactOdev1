@@ -1,0 +1,21 @@
+.baslik{
+    color: bisque;
+}
+.anadiv{
+    background-color: black;
+}#container{
+    width: 400px;
+    background-color: black;
+    padding: 20px;
+}
+
+.inputlar{
+    color: bisque;
+    margin: 0;
+    padding :0;
+    list-style-type: none;
+}
+.buttonlar{
+    background-color: darkcyan;
+    color: bisque;
+}
